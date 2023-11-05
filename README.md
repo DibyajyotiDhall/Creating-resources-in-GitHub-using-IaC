@@ -39,7 +39,7 @@ terraform init
 This will create a `.terraform` directory in your project folder and download the necessary provider plugins.
 
 ### Terraform Init
-[Terraform Init](terraform-init.png)
+![Terraform Init](terraform-init.png)
 
 ## Step 3: Apply the Configuration
 
