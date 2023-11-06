@@ -17,3 +17,6 @@ name        = "dibya-first-repo-by-terra"   # this will be name of repo
 description = "creatingMyFirstTerrformInfra"
 visibility  = "public"
 }
+
+
+#terraform apply -auto-aprove
