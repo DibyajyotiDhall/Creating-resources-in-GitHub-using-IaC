@@ -28,7 +28,7 @@ resource "github_repository" "local-repo" {
 
 Replace `"YOUR_GITHUB_TOKEN"` with your actual GitHub token, which you can create in your GitHub account settings.
 ```
-## Step 2: Initialize Terraform and Download Provider Plugins
+## Step 2: Initialize Terraform and Download Provider Plugins/modules
 
 Open your terminal and run the following command to initialize your Terraform configuration and download the required provider plugins:
 
