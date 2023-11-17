@@ -57,6 +57,6 @@ terraform apply -auto-approve
 
 Terraform will execute the plan, and upon successful execution, your GitHub repository will be created. You can log into your GitHub account to verify the new repository.
 
-**Congratulations!** You've successfully created a GitHub repository using Terraform.
+**Congratulations!** You've successfully created a GitHub repository using-Terraform.
 ### Terraform Apply
 ![Terraform Apply](terraform-repo.png)
